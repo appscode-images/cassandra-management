@@ -17,7 +17,7 @@
   <artifactId>datastax-mgmtapi-agent-5.1.x</artifactId>
   <properties>
     <cassandra5.version>5.1-SNAPSHOT</cassandra5.version>
-    <netty.http.codec.version>4.1.118.Final</netty.http.codec.version>
+    <netty.http.codec.version>4.1.135.Final</netty.http.codec.version>
   </properties>
   <dependencies>
     <!-- Need to explicitly declare SLF4J as "provided" to avoid it being bundled into the resulting agent jarfile -->
